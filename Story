@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+        <head>
+            <meata charset="UTF-8">
+                <title>STORY</title>
+                <link rel="stylesheet" href="./main.css">
+        </head>
+        <body>
+   <h3 id="h3"> THE JOURNEY TO FIND LOVE.</h3>
+ 
+            <div class="divs">
+<p  >  In a beautiful quiet and intricate city nestled in the heart of Accra, lived a young, passionate and energetic boy full of curiousity.
+    He schooled near the city in a place called University Basic School. His name was Gillies Davidson.
+    <p>One  day in school, a girl was transferred to his school. She was light - skinned with short black hair and dimples that showed whenever she smiled her gorgeous smile.
+    She had curves in the right places, her oval face accompanied with her pale pink lips really brought out her eyes. Her name was Danielle.
+      This is where the journey started.</p><p> Gillies was soo fascinated with this girl, he couldn`t concerntrate that day. </p> <p></p>
+
+  </div>
+
+</body>
+
+
+</html>
+<a href="./main.css"></a>
